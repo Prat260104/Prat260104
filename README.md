@@ -8,16 +8,17 @@
 ---
 
 ## 🧠 About Me  
-- 🔍 I’m passionate about building intelligent systems that solve real-world problems.  
-- 🤖 Exploring the depths of **AI, Machine Learning, and Data Science**.  
-- 🌐 Skilled in **Full Stack Web Development** using **Java + Spring Boot** backend.  
-- 💡 Always learning — always evolving.  
+- 🔍 Passionate about building intelligent systems that solve real-world problems  
+- 🤖 Deeply interested in **AI, Machine Learning, and Data Science**  
+- 🌐 Proficient in **Full Stack Web Development** using **Java + Spring Boot**  
+- 🚀 Constantly learning and evolving through new challenges  
+- 💼 **Currently open to internship or job opportunities** in AI, Data Science, or Full Stack Development  
 
 ---
 
 ## 💼 Experience  
-- 👨‍💻 Completed virtual internships in **AI** and **Web Development** via *Edunet Foundation*.  
-- 🔍 Gained hands-on experience working with real-world tools and frameworks.
+- 💻 Completed virtual internships in **AI** and **Web Development** via *Edunet Foundation*  
+- 🛠️ Gained hands-on experience with real-world tools, frameworks, and collaborative development environments  
 
 ---
 
@@ -38,21 +39,25 @@
 - 🤖 Artificial Intelligence & Deep Learning  
 - 📊 Data Science & Analytics  
 - 💻 Backend Engineering with Java + Spring Boot  
-- 🌐 Full Stack Development  
+- 🌐 Full Stack Development (Java, React, MySQL)
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prat260104&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prat260104&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prat260104&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prat260104&layout=compact&theme=radical" height="160" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prat260104&theme=radical" height="160" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-rai-969136342)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-rai-969136342)  
+📬 *Feel free to reach out — I’m always open to meaningful connections and exciting opportunities.*
 
 ---
 
-⭐ *Thanks for stopping by! Let's build something amazing together.*
+⭐ *Thanks for visiting! Let's build something amazing together.*
