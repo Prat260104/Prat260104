@@ -44,12 +44,14 @@
 ---
 
 ## 📈 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prat260104&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prat260104&show_icons=true&count_private=true&theme=radical" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prat260104&layout=compact&theme=radical" height="160" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prat260104&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prat260104&count_private=true&theme=radical" height="160" />
 </p>
 
 ---
