@@ -56,6 +56,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Prat260104&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateek-rai-969136342)  
 📬 *Feel free to reach out — I’m always open to meaningful connections and exciting opportunities.*
