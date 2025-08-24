@@ -36,7 +36,7 @@
 ---
 
 ## 📚 Interests  
-- 🤖 Artificial Intelligence & Deep Learning  
+- 🤖 Artificial Intelligence & Machine Learning 
 - 📊 Data Science & Analytics  
 - 💻 Backend Engineering with Java + Spring Boot  
 - 🌐 Full Stack Development (Java, React, MySQL)
