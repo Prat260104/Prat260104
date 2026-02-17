@@ -8,7 +8,7 @@
 
 - 🎓 **B.Tech CSE (AI)** — KIET Group of Institutions, Ghaziabad  
 - 📊 **BS Data Science** — IIT Madras  
-- 🧠 Engineering-focused **Machine Learning + Full-Stack Developer**
+- 🧠 Engineering-focused **Machine Learning + Backend Developer**
 - 🔧 Strong in **Java, Spring Boot, Backend Systems**
 - ☁️ **AWS Certified Cloud Practitioner**
 - 🚀 Interested in scalable systems, APIs, ML integration & cloud
@@ -16,12 +16,6 @@
 ---
 
 ## ⚙️ Tech Arsenal
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
 
 ### Backend & Systems
 <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,linux" />
@@ -32,17 +26,7 @@
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prat260104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-</td>
-</tr>
-</table>
-
-</div>
+<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Prat260104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 ---
 
@@ -65,6 +49,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+> _Auto-updated using WakaTime GitHub Action_
+
 ---
 
 ## 🏅 Certifications
@@ -77,7 +63,7 @@
 
 ---
 
-## 🔗 Connect
+## 🔗 Connect with Me
 
 <div align="center">
 
