@@ -11,11 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Prat260104">
-    <img src="https://img.shields.io/github/followers/Prat260104?label=Followers&style=for-the-badge" />
-  </a>
-  <img src="https://img.shields.io/github/stars/Prat260104?label=Stars&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Prat260104&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-700%2B-blue?style=for-the-badge" />
 </p>
+
 
 ---
 
