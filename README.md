@@ -17,6 +17,7 @@
 ---
 
 ## 💼 Experience  
+- Open source Contributor - contributed in girlscript summer of code 2025
 - 💻 Completed virtual internships in **AI** and **Web Development** via *Edunet Foundation*  
 - 🛠️ Gained hands-on experience with real-world tools, frameworks, and collaborative development environments  
 
