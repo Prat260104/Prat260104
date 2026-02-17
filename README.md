@@ -3,79 +3,90 @@
 </div>
 
 ---
+<h1 align="center">Hi, I'm Prateek Rai 👋</h1>
 
-## 👋 About Me
+<p align="center">
+  <b>Backend • Cloud • ML Engineering</b><br>
+  Building scalable systems & production-ready software
+</p>
 
-- 🎓 **B.Tech CSE (AI)** — KIET Group of Institutions, Ghaziabad  
-- 📊 **BS Data Science** — IIT Madras  
-- 🧠 Engineering-focused **Machine Learning + Backend Developer**
-- 🔧 Strong in **Java, Spring Boot, Backend Systems**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🚀 Interested in scalable systems, APIs, ML integration & cloud
+<p align="center">
+  <a href="https://github.com/Prat260104">
+    <img src="https://img.shields.io/github/followers/Prat260104?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/github/stars/Prat260104?label=Stars&style=for-the-badge" />
+</p>
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🧑‍💻 About Me
+
+- 🎓 **B.Tech CSE (AI)** — KIET Group of Institutions  
+- 📊 **BS Data Science** — IIT Madras  
+- 💻 Backend-first engineer with ML & Cloud exposure  
+- ☁️ **AWS Certified Cloud Practitioner**
+- 🔧 Strong in **Java, Spring Boot, APIs, Databases**
+- 🚀 Interested in **scalable systems, DevOps & ML integration**
+
+---
+
+## 🛠 Tech Stack
 
 ### Backend & Systems
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,linux" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ### ML / Data
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Prat260104&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prat260104&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prat260104&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
-## 📊 Weekly Development Breakdown
+## 📌 What I Work On
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> _Auto-updated using WakaTime GitHub Action_
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-</div>
+- REST APIs & backend architectures  
+- Database design & optimization  
+- Cloud deployment & containerization  
+- ML-powered features in web apps  
+- Open-source & long-term engineering projects  
 
 ---
 
-## 🔗 Connect with Me
+## 📊 GitHub Highlights (Real & Native)
 
-<div align="center">
+- 📁 Multiple production-style repositories  
+- 🔁 Consistent contributions  
+- 🧠 Focus on **code quality > flashy stats**
+- 🛠 Projects with backend + infra thinking  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prateek%20Rai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Prat260104-181717?style=for-the-badge&logo=github)]
-
-</div>
+> _Good engineers show work — not animations._
 
 ---
 
-<div align="center">
+## 🔗 Connect With Me
 
-_“Engineering is not about tools — it’s about thinking.”_
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prateek_Rai-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Prat260104">
+    <img src="https://img.shields.io/badge/GitHub-Prat260104-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-</div>
+---
+
+<p align="center">
+  <i>“Strong systems outlive fancy dashboards.”</i>
+</p>
+
