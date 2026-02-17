@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" />
+  <img src="./aboutme.svg" width="100%" />
 </div>
 
 ---
