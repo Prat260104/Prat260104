@@ -1,0 +1,106 @@
+<svg width="650" height="300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 300">
+  <defs>
+    <linearGradient id="bg-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a1320;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#06020b;stop-opacity:1"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes pulse { 0%,100%{opacity:.6}50%{opacity:1} }
+      @keyframes fadeIn { from{opacity:0;transform:translateX(-8px)} to{opacity:1} }
+
+      .cursor { animation: blink 1s infinite; }
+      .dot { animation: pulse 2s infinite; }
+
+      .l1{animation:fadeIn .4s .0s forwards;opacity:0}
+      .l2{animation:fadeIn .4s .3s forwards;opacity:0}
+      .l3{animation:fadeIn .4s .6s forwards;opacity:0}
+      .l4{animation:fadeIn .4s .9s forwards;opacity:0}
+      .l5{animation:fadeIn .4s 1.2s forwards;opacity:0}
+      .l6{animation:fadeIn .4s 1.5s forwards;opacity:0}
+      .l7{animation:fadeIn .4s 1.8s forwards;opacity:0}
+      .l8{animation:fadeIn .4s 2.1s forwards;opacity:0}
+      .l9{animation:fadeIn .4s 2.4s forwards;opacity:0}
+      .l10{animation:fadeIn .4s 2.7s forwards;opacity:0}
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="650" height="300" rx="10" fill="url(#bg-gradient)"/>
+  <rect x="2" y="2" width="646" height="296" rx="10"
+        fill="none" stroke="#7b00ff" stroke-width="2" filter="url(#glow)"/>
+
+  <!-- Divider -->
+  <line x1="320" y1="0" x2="320" y2="300" stroke="#c18cfa" opacity="0.25"/>
+
+  <!-- RIGHT TERMINAL PANEL -->
+  <g transform="translate(340,20)">
+    <text font-family="Courier New, monospace" font-size="13" fill="#c18cfa">
+
+      <tspan class="l1">
+        <tspan x="0" y="15" fill="#ff006e" class="dot">●</tspan>
+        <tspan x="12" y="15"> PROFILE: ACTIVE</tspan>
+      </tspan>
+
+      <tspan class="l2">
+        <tspan x="0" y="45" fill="#8338ec">▸</tspan>
+        <tspan x="12" y="45"> Identity</tspan>
+      </tspan>
+      <tspan class="l3" x="10" y="68">
+        Hybrid ML + Full Stack Engineer
+      </tspan>
+
+      <tspan class="l4">
+        <tspan x="0" y="98" fill="#8338ec">▸</tspan>
+        <tspan x="12" y="98"> Education</tspan>
+      </tspan>
+      <tspan class="l5" x="10" y="121">
+        B.Tech CSE (AI) — KIET Ghaziabad
+      </tspan>
+      <tspan class="l6" x="10" y="144">
+        BS Data Science — IIT Madras
+      </tspan>
+
+      <tspan class="l7">
+        <tspan x="0" y="174" fill="#8338ec">▸</tspan>
+        <tspan x="12" y="174"> Focus</tspan>
+      </tspan>
+      <tspan class="l8" x="10" y="197">
+        ML Systems • Backend • APIs
+      </tspan>
+
+      <tspan class="l9">
+        <tspan x="0" y="230" fill="#ff006e" class="dot">●</tspan>
+        <tspan x="12" y="230"> STATUS: OPEN TO OPPORTUNITIES</tspan>
+      </tspan>
+
+      <tspan class="l10">
+        <tspan x="12" y="255" class="cursor">_</tspan>
+      </tspan>
+
+    </text>
+  </g>
+
+  <!-- LEFT TITLE -->
+  <g transform="translate(40,90)">
+    <text font-family="Courier New, monospace" font-size="22" fill="#8b5cf6">
+      <tspan x="0" y="0">Prateek Rai</tspan>
+      <tspan x="0" y="28" font-size="16" fill="#c18cfa">
+        Machine Learning Engineer
+      </tspan>
+      <tspan x="0" y="48" font-size="16" fill="#c18cfa">
+        Full Stack Java Developer
+      </tspan>
+    </text>
+  </g>
+
+</svg>
