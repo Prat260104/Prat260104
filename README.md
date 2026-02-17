@@ -1,13 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=300&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Machine+Learning+Engineer;Full+Stack+Java+Developer;Building+Intelligent+Systems" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prat260104&label=Profile%20Views&color=6366f1&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-indigo?style=for-the-badge" />
-</p>
+<img src="./aboutme.svg" width="100%">
 
 ---
 
@@ -16,37 +7,46 @@
 🎓 **B.Tech CSE (AI)** — KIET Group of Institutions, Ghaziabad  
 📊 **BS Data Science** — IIT Madras  
 
-I am a **Hybrid Machine Learning & Full Stack Developer** with a strong focus on building **scalable backend systems** and **intelligent data-driven applications**.
+I am a **Hybrid Machine Learning + Full Stack Java Engineer** focused on building  
+**scalable backend systems** and **intelligent data-driven applications**.
 
-- 🧠 Strong interest in **Machine Learning, Data Science, and Backend Engineering**
-- 💻 Experienced in **Java + Spring Boot** for full stack development
-- ⚙️ Comfortable working across **ML pipelines, APIs, and databases**
-- 🌱 Continuously improving through **open source contributions and projects**
-- 💼 **Actively seeking internships or job roles** in ML, Backend, or Full Stack Engineering
+- 🧠 Strong interest in **Machine Learning, Data Science, and System Design**
+- 💻 Backend-first developer using **Java + Spring Boot**
+- ⚙️ Comfortable with **ML pipelines, REST APIs, databases**
+- 🌍 Open source contributor (GirlScript Summer of Code 2025)
+- 💼 **Open to internships & full-time opportunities**
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚙️ Tech Stack
 
 ### 💻 Programming & Backend
-![Java](https://skillicons.dev/icons?i=java,spring,python,nodejs)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
+</p>
 
 ### 🌐 Frontend
-![Frontend](https://skillicons.dev/icons?i=react,js,html,css)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+</p>
 
 ### 📊 Data & ML
-![ML](https://skillicons.dev/icons?i=python,mysql)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-### ⚙️ Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux,postman)
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+</p>
 
 ---
 
-## 💼 Experience & Open Source
+## 🧠 Experience & Open Source
 
 - 🌍 **Open Source Contributor** — GirlScript Summer of Code 2025  
-- 💻 Completed **AI & Web Development Virtual Internships** via *Edunet Foundation*  
-- 🤝 Worked with collaborative codebases, real-world tools, and structured workflows  
+- 💻 Virtual Internships in **AI & Web Development** — Edunet Foundation  
+- 🤝 Worked with collaborative codebases and real-world development workflows  
 
 ---
 
@@ -92,5 +92,3 @@ I am a **Hybrid Machine Learning & Full Stack Developer** with a strong focus on
 <p align="center">
   <b>Engineering systems that scale. Learning systems that think.</b>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
