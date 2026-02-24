@@ -3,7 +3,7 @@
 </div>
 
 ---
-<h1 align="center">Hi, I'm Prateek Rai 👋</h1>
+<h1 align="center">Hi, I'm Prateek Rai </h1>
 
 <p align="center">
   <b>Backend • Cloud • ML Engineering</b><br>
@@ -18,18 +18,18 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 **B.Tech CSE (AI)** — KIET Group of Institutions  
-- 📊 **BS Data Science** — IIT Madras  
-- 💻 Backend-first engineer with ML & Cloud exposure  
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🔧 Strong in **Java, Spring Boot, APIs, Databases**
-- 🚀 Interested in **scalable systems, DevOps & ML integration**
+-  **B.Tech CSE (AI)** — KIET Group of Institutions  
+-  **BS Data Science** — IIT Madras  
+-    Backend-first engineer with ML & Cloud exposure  
+-  **AWS Certified Cloud Practitioner**
+-  Strong in **Java, Spring Boot, APIs, Databases**
+-  Interested in **scalable systems, DevOps & ML integration**
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend & Systems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -55,7 +55,7 @@
 
 ---
 
-## 📌 What I Work On
+##  What I Work On
 
 - REST APIs & backend architectures  
 - Database design & optimization  
@@ -65,18 +65,18 @@
 
 ---
 
-## 📊 GitHub Highlights (Real & Native)
+##  GitHub Highlights (Real & Native)
 
-- 📁 Multiple production-style repositories  
-- 🔁 Consistent contributions  
-- 🧠 Focus on **code quality > flashy stats**
-- 🛠 Projects with backend + infra thinking  
+-  Multiple production-style repositories  
+-  Consistent contributions  
+-  Focus on **code quality > flashy stats**
+-  Projects with backend + infra thinking  
 
 > _Good engineers show work — not animations._
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/">
