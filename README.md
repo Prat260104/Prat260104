@@ -15,17 +15,23 @@
   <img src="https://img.shields.io/badge/Total%20Contributions-700%2B-blue?style=for-the-badge" />
 </p>
 
-
 ---
 
 ##  About Me
 
 -  **B.Tech CSE (AI)** — KIET Group of Institutions  
 -  **BS Data Science** — IIT Madras  
--    Backend-first engineer with ML & Cloud exposure  
--  **AWS Certified Cloud Practitioner**
+-  Backend-first engineer with ML & Cloud exposure  
 -  Strong in **Java, Spring Boot, APIs, Databases**
 -  Interested in **scalable systems, DevOps & ML integration**
+
+---
+
+##  Certifications
+
+-  **AWS Certified AI Practitioner**  
+-  **AWS Certified Cloud Practitioner**  
+-  **AI For Everyone — Andrew Ng**
 
 ---
 
@@ -92,4 +98,3 @@
 <p align="center">
   <i>“Strong systems outlive fancy dashboards.”</i>
 </p>
-
