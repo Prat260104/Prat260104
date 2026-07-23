@@ -2,7 +2,7 @@
 
 <img src="./aboutme.svg" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=140&section=header&text=PRATEEK%20RAI&fontSize=42&fontColor=00ff9c&fontAlignY=40&animation=fadeIn&desc=AI/ML & backend%20//%20systems%20//%20open-source&descAlignY=60&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=140&section=header&text=PRATEEK%20RAI&fontSize=42&fontColor=00ff9c&fontAlignY=40&animation=fadeIn&desc=backend%20//%20systems%20//%20open-source&descAlignY=60&descColor=39ff14" width="100%"/>
 
 <a href="https://github.com/Prat260104">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=root%40prateek%3A~%24+whoami;GSoC+2026+%40+InVesalius+(PSF);20%2B+merged+PRs+in+production+code;Backend+%2B+Distributed+Systems+Engineer;Building+things+that+don't+fall+over" alt="Typing SVG" />
@@ -14,10 +14,9 @@
 
 ```bash
 prateek@systems:~$ cat status.log
-[OK]  Google Summer of Code 2026 -- InVesalius (Python Software Foundation)
-[OK]  Open Source Contributor -- Harbor Satellite (CNCF)
+[OK]  Google Summer of Code 2026 -- InVesalius 
+[OK]  Open Source Contributor -- CNCF , K8s , GSoC , LFX
 [OK]  Technical Lead -- NextGen Supercomputing Club, KIET
-[..]  Applying -- LFX Mentorship, RISC-V org (Fall 2026)
 prateek@systems:~$ _
 ```
 
@@ -26,13 +25,12 @@ prateek@systems:~$ _
 ## `$ cat about.md`
 
 ```yaml
-role:        Backend-focused Software Engineer
+role:       AI/ML & Full Stack Hybrid Engineer
 building:    distributed systems, AI-integrated backends, open-source infra
 education:
   - B.Tech, CS (AI specialization) @ KIET Group of Institutions   | 2024 - 2028
   - BS, Data Science @ IIT Madras                                  | 2024 - 2028
-focus:       Java/Spring Boot backends, systems design, applied ML, OSS
-currently:   shipping .3MF import/export for medical imaging (InVesalius)
+focus:       Java/Spring Boot backends, systems design, applied AI/ML, OSS, fastApi, django, Gen AI
 ```
 
 <br>
@@ -43,8 +41,8 @@ currently:   shipping .3MF import/export for medical imaging (InVesalius)
 <tr>
 <td width="100%">
 
-### 🩻 Google Summer of Code 2026 — InVesalius <sub>(Python Software Foundation)</sub>
-<sub><i>Open Source Software Engineer · May 2026 – Aug 2026</i></sub>
+### 🩻 Google Summer of Code 2026 — InVesalius 
+<sub><i>Open Source Software Engineer · May 2026 – Sept 2026</i></sub>
 
 - Designed and shipped a full **.3MF export/import pipeline**, extending InVesalius's pubsub dispatcher to support the 3D-manufacturing format used by OrcaSlicer, PrusaSlicer, and Bambu Studio
 - Engineered **bidirectional LPS ↔ Z-up coordinate transforms** with vectorized NumPy — no per-element loops, tested on meshes up to 5M triangles
@@ -57,12 +55,12 @@ currently:   shipping .3MF import/export for medical imaging (InVesalius)
 <tr>
 <td width="100%">
 
-### 🛰️ Open Source Contributor — Harbor Satellite <sub>(CNCF)</sub>
+### 🛰️ Open Source Contributor — CNCF , K8s , GSoC , LFX <sub>(CNCF)</sub>
 <sub><i>Jun 2025 – Present</i></sub>
 
 - Building **E2E crash-recovery tests** for a distributed replication system — validating satellite nodes resume layer-level sync after mid-replication failure with zero redundant re-replication
 - Writing E2E coverage for **SPIFFE/SPIRE zero-trust registration** (join-token, x509pop, sshpop), including crash-during-handshake paths with no prior coverage
-- Verifying fault-tolerant, idempotent replication across Zot and BYO registry backends in **Go**
+- Verifying fault-tolerant, idempotent replication across backends in **Go**
 
 </td>
 </tr>
