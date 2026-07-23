@@ -176,16 +176,12 @@ Prototype proving full .3MF export with per-vertex RGBA via the `lib3mf` ColorGr
 
 </div>
 
-<!--
-  Optional: animated contribution snake — add .github/workflows/snake.yml (provided alongside this
-  file) and this repo will auto-generate a dark/light snake SVG on a schedule. Once it's live, swap
-  the img below in for the graph above, or place it underneath.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prat260104/Prat260104/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/Prat260104/Prat260104/output/github-contribution-grid-snake.svg" />
 </picture>
--->
+
 
 <br>
 
@@ -193,7 +189,7 @@ Prototype proving full .3MF export with per-vertex RGBA via the `lib3mf` ColorGr
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/prateek-rai">
+<a href="https://www.linkedin.com/in/prateek-rai-969136342">
   <img src="https://img.shields.io/badge/LinkedIn-Prateek_Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0d1117" />
 </a>
 <a href="https://github.com/Prat260104">
