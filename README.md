@@ -2,7 +2,7 @@
 
 <img src="./aboutme.svg" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=140&section=header&text=PRATEEK%20RAI&fontSize=42&fontColor=00ff9c&fontAlignY=40&animation=fadeIn&desc=backend%20//%20systems%20//%20open-source&descAlignY=60&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=140&section=header&text=PRATEEK%20RAI&fontSize=42&fontColor=00ff9c&fontAlignY=40&animation=fadeIn&desc=AI/ML & backend%20//%20systems%20//%20open-source&descAlignY=60&descColor=39ff14" width="100%"/>
 
 <a href="https://github.com/Prat260104">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=root%40prateek%3A~%24+whoami;GSoC+2026+%40+InVesalius+(PSF);20%2B+merged+PRs+in+production+code;Backend+%2B+Distributed+Systems+Engineer;Building+things+that+don't+fall+over" alt="Typing SVG" />
