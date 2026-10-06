@@ -19,210 +19,71 @@
 ## `$ whoami`
 
 ```yaml
-name:        Prateek Rai
-role:        AI/ML & Full-Stack Engineer
-specialties:
+name: Prateek Rai
+role: AI/ML & Full-Stack Engineer
+
+focus:
   - Backend & Distributed Systems
-  - Go & Cloud-Native Development
+  - Go & Cloud Native
   - AI/ML & Generative AI
-  - UI/UX & Website Design
-  - Open Source Engineering
+  - UI/UX & Web Engineering
+  - Open Source
 ```
 
-I build **production-oriented software across backend systems, AI/ML, cloud-native infrastructure, and modern web experiences**.
+Building **production-oriented systems** across backend infrastructure, AI/ML, cloud-native engineering, and modern web experiences.
 
-Currently contributing to open-source projects across the **CNCF, Kubernetes ecosystem, GSoC, and LFX**, with a strong focus on **Go, distributed systems, testing, and cloud-native infrastructure**.
-
-Alongside systems engineering, I design and build **UI/UX-driven websites and frontend experiences** using modern web technologies.
+Currently contributing across the **CNCF, Kubernetes ecosystem, GSoC, and LFX**, with a focus on **AI/ML, Go, distributed systems, testing, and reliability**.
 
 ---
 
 ## `$ cat status.log`
 
 ```text
-[OK]  Google Summer of Code 2026 — InVesalius
-[OK]  Open Source Contributor — CNCF / Kubernetes / LFX
-[OK]  Go Developer — Cloud-Native & Distributed Systems
-[OK]  UI/UX & Website Designer — Web Experiences
-[OK]  Technical Lead — NextGen Supercomputing Club
+[OK] GSoC 2026 — InVesalius
+[OK] CNCF / Kubernetes / LFX — Open Source
+[OK] Go — Distributed Systems & Cloud Native
+[OK] Technical Lead — NextGen Supercomputing Club
 ```
 
 ---
 
 ## `$ cat education.md`
 
-| Program                                          | Institution                | Duration    |
-| ------------------------------------------------ | -------------------------- | ----------- |
-| **B.Tech — Computer Science & Engineering (AI)** | KIET Group of Institutions | 2024 – 2028 |
-| **BS — Data Science**                            | IIT Madras                 | 2024 – 2028 |
+**B.Tech — CSE (AI)** · KIET Group of Institutions · 2024–2028
+**BS — Data Science** · IIT Madras · 2024–2028
 
 ---
 
 # `$ ./run experience.sh`
 
-## 🩻 Google Summer of Code 2026 — InVesalius
+###  Google Summer of Code 2026 — InVesalius
 
-**Open Source Software Engineer · May 2026 – Sept 2026**
+**Open Source Software Engineer · May–Sept 2026**
 
-Contributing to **InVesalius**, an open-source medical image processing and visualization platform.
+Open-source medical imaging and visualization engineering.
 
-* Designed and implemented a complete **.3MF import/export pipeline**
-* Extended the application's pubsub architecture to support 3D manufacturing workflows
-* Implemented **LPS ↔ Z-up coordinate transformations** using vectorized NumPy
-* Built multi-surface export with **per-vertex RGBA color mapping** using `lib3mf`
-* Added geometry and export validation with CI-grade unit tests
-* Worked across **Python, NumPy, VTK, DICOM, and visualization pipelines**
-* **20+ merged PRs** across rendering, UI workflows, DICOM handling, mesh processing, and export functionality
+* Built a complete **`.3MF` import/export pipeline**
+* Implemented **LPS → Z-up coordinate transformations** with NumPy
+* Added **per-vertex RGBA mapping** using `lib3mf`
+* Extended pubsub workflows for 3D manufacturing
+* Added geometry/export validation and CI-grade tests
+* Worked across **Python · NumPy · VTK · DICOM**
+* **20+ merged PRs**
 
----
+###  LFX / CNCF / Kubernetes
 
-## 🛰️ LFX / CNCF / Kubernetes — Open Source Engineering
+**Go Developer · Distributed Systems · Jun 2025–Present**
 
-**Go Developer · Cloud-Native & Distributed Systems · Jun 2025 – Present**
+* Building **E2E crash-recovery tests** for distributed replication
+* Validating synchronization after mid-replication failures
+* Testing **fault-tolerant, idempotent replication**
+* Production-oriented testing and tooling in **Go**
 
-Working on production-oriented open-source infrastructure with an emphasis on **Go, distributed systems, reliability, testing, and cloud-native technologies**.
-
-### Current focus
-
-* Developing **E2E crash-recovery tests** for distributed replication systems
-* Validating layer-level synchronization after mid-replication failures
-* Testing **fault-tolerant and idempotent replication** across multiple backends
-* Building E2E coverage for **SPIFFE/SPIRE zero-trust registration**
-* Working with authentication flows including:
-
-  * `join-token`
-  * `x509pop`
-  * `sshpop`
-* Contributing to projects across the **CNCF and Kubernetes ecosystem**
-* Writing production-oriented test infrastructure and tooling in **Go**
-
-```text
-Primary language: Go
-Focus: Distributed Systems · Cloud Native · E2E Testing · Reliability
-Ecosystem: CNCF · Kubernetes · SPIFFE/SPIRE · Container Infrastructure
-```
-
----
-
-## 🎨 UI/UX & Website Design
-
-**UI/UX Designer · Frontend Developer**
-
-I design and implement complete web experiences, combining **visual design, interaction design, frontend engineering, and responsive architecture**.
-
-### Areas of work
-
-* UI/UX design
-* Website design
-* Design systems
-* Landing pages
-* Responsive interfaces
-* Information architecture
-* Visual hierarchy
-* Interactive experiences
-* 3D web experiences
-* Developer / technical websites
-
-### Frontend stack
-
-`React` `Next.js` `TypeScript` `Tailwind CSS` `Three.js`
-
----
-
-## 🧑‍🏫 Technical Lead — NextGen Supercomputing Club
-
-**KIET Group of Institutions · Nov 2025 – Present**
-
-* Leading technical initiatives for the college's AI/ML and supercomputing community
-* Mentoring students in **backend development, ML/CV, DSA, and system design**
-* Designing and developing technical web experiences for the organization
-* Working on the club's visual identity and **AI/ML-focused website design**
-
----
-
-# `$ ls projects/`
-
-## ⚡ Skill Loop
-
-**Distributed Skill Exchange Platform**
-
-A horizontally scalable microservices platform combining backend systems with AI-powered evaluation.
-
-### Architecture
-
-* **Spring Boot / Java 21** — authentication, profiles, sessions
-* **FastAPI** — AI evaluation services
-* **PostgreSQL** — indexed persistence layer
-* **WebSockets** — real-time technical interviews
-* **LangChain + ChromaDB** — RAG-based evaluation
-* **HuggingFace Transformers** — sentiment analysis
-* Token-bucket rate limiting
-* JWT refresh-token rotation
-* Stateless architecture for horizontal scaling
-
-`Java` `Spring Boot` `FastAPI` `PostgreSQL` `RAG` `LangChain` `WebSockets`
-
----
-
-## 🌐 NextGen Supercomputing Club Website
-
-**AI/ML & Supercomputing Community Website**
-
-Designed and implemented the complete website experience for the college's supercomputing club.
-
-### Design direction
-
-* NVIDIA-inspired visual language
-* Neural-network-inspired visual elements
-* Interactive 3D components
-* Responsive layouts
-* Technical / futuristic visual identity
-* Component-driven frontend architecture
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `Three.js` `UI/UX`
-
----
-
-## 🖥️ CSE / AI & AIML Department Website
-
-**Institutional Web Experience**
-
-Designed and implemented the complete website experience for the college's Computer Science, AI, and AIML department.
-
-### Focus
-
-* Information architecture
-* Visual hierarchy
-* Responsive design
-* Component systems
-* Accessibility
-* Department-focused content organization
-* Modern institutional UI
-
-`React` `TypeScript` `Tailwind CSS` `UI/UX` `Web Design`
-
----
-
-## 🧊 .3MF Export / Import Pipeline
-
-**InVesalius — Pre-GSoC Proof of Concept**
-
-Prototype developed to validate the feasibility of full `.3MF` export before the GSoC coding period.
-
-* `lib3mf` ColorGroup API
-* Per-vertex RGBA
-* LPS → Z-up transformation
-* NumPy vectorization
-* VTK mesh processing
-* Slicer compatibility validation
-
-`Python` `NumPy` `VTK` `lib3mf`
-
----
+`Go` `Distributed Systems` `Kubernetes` `CNCF` `E2E`
 
 # `$ cat stack.json`
 
-## Languages
+### Languages
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -234,7 +95,7 @@ Prototype developed to validate the feasibility of full `.3MF` export before the
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-## Backend & Distributed Systems
+### Backend · Cloud · AI
 
 <p>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -246,20 +107,6 @@ Prototype developed to validate the feasibility of full `.3MF` export before the
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-## Frontend & UI/UX
-
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-<img src="https://img.shields.io/badge/UI%2FUX-Design-39FF14?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Web_Design-39FF14?style=for-the-badge&labelColor=0d1117" />
-</p>
-
-## AI / ML
-
 <p>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -270,7 +117,18 @@ Prototype developed to validate the feasibility of full `.3MF` export before the
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-## Cloud & DevOps
+### Frontend · UI/UX
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+<img src="https://img.shields.io/badge/UI%2FUX-Design-39FF14?style=for-the-badge&labelColor=0d1117" />
+</p>
+
+### DevOps
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -284,9 +142,9 @@ Prototype developed to validate the feasibility of full `.3MF` export before the
 
 # `$ cat certifications.md`
 
-* **AWS Certified AI Practitioner** — Amazon Web Services
-* **AWS Certified Cloud Practitioner** — Amazon Web Services
-* **Foundations of Programming and Data Science** — IIT Madras
+**AWS Certified AI Practitioner** · AWS
+**AWS Certified Cloud Practitioner** · AWS
+**Foundations of Programming & Data Science** · IIT Madras
 
 ---
 
